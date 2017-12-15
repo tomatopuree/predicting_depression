@@ -15,6 +15,20 @@ Dependencies are the following:
 
 Native python imports can be seen in the code.
 
+Usage is as follows:
+
+```python
+l = Loader()
+l.downloadAndLabel()
+
+g = Generator(l.filedir, l.lids(), l.lits())
+g.generateMatrix()
+```
+
+outputs g.featureMatrix
+
+
+This code is explained below.
 
 
 ## THE ARCHITECTURE
