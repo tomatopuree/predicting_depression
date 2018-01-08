@@ -107,7 +107,9 @@ suitable for RNN or LSTM input.
 * Create a StudenLife-esque hierarchy for both raw data and features, to
 increase ease of use for future students/faculty.  
 
-
+* Figure out where I saved some featurizing functions, like number of unique
+callers, or unique cellphone towers encountered, and incorporate them to the
+code. 
 
 
 
