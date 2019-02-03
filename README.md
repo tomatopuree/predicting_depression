@@ -20,6 +20,7 @@ The performance of the machine learning algorithm is discussed
 in detail in the below paper.
 
 https://digitalcommons.wpi.edu/cgi/viewcontent.cgi?article=3433&context=mqp-all
+
 Cite as:
 Dogrucu, A., Perucic, A., Isaro, A., & Ball, D. C. (2018). Sensing Depression
 
