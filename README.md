@@ -1,5 +1,28 @@
 # README
 
+The code features a multitude of machine learning models
+used in isolation and conjunction to create an 
+"artificial intelligence" that infers a smartphone user’s 
+**severity of depression** (or lack thereof) from **data scraped 
+off their phone and social media websites (e.g. twitter, 
+instagram), which includes Google GPS data, call and text metadata, 
+social media usage data and voluntary voice samples. **
+
+The code provides the machine learning algorithm that a
+mobile medical application's server uses. This application
+can be installed on an Android phone on the spot, and with 
+your consent will pull all data mentioned above and run it 
+through the machine learning algorithm developped in this 
+code repository to give you a prediction for the severity 
+of your depression, if there is any to begin with.
+
+The performance of the machine learning algorithm is discussed
+in detail in the below paper.
+
+https://digitalcommons.wpi.edu/cgi/viewcontent.cgi?article=3433&context=mqp-all
+Cite as:
+Dogrucu, A., Perucic, A., Isaro, A., & Ball, D. C. (2018). Sensing Depression
+
 
 ## THE NITTY GRITTY
 
