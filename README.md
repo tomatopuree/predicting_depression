@@ -17,7 +17,7 @@ code repository to give you a prediction for the severity
 of your depression, if there is any to begin with.
 
 The performance of the machine learning algorithm is discussed
-in detail in the below paper.
+in detail in the paper below.
 
 https://digitalcommons.wpi.edu/cgi/viewcontent.cgi?article=3433&context=mqp-all
 
