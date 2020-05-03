@@ -21,10 +21,10 @@ in detail in the paper below.
 
 Cite as:
 
-Dogrucu A., Perucic A., Isaro A., Ball D., Toto E., Rundensteiner E.A., Agu
+*Dogrucu A., Perucic A., Isaro A., Ball D., Toto E., Rundensteiner E.A., Agu
 E., Davis-Martin R. & Boudreaux E., Moodable: On feasibility of instantaneous depression assessment
 using machine learning on voice samples with retrospectively harvested smartphone and social media
-data, Smart Health (2020), doi: https://doi.org/10.1016/j.smhl.2020.100118.
+data, Smart Health (2020), doi: https://doi.org/10.1016/j.smhl.2020.100118.*
 
 
 
