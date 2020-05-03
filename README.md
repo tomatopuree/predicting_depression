@@ -19,10 +19,13 @@ of your depression, if there is any to begin with.
 The performance of the machine learning algorithm is discussed
 in detail in the paper below.
 
-https://digitalcommons.wpi.edu/cgi/viewcontent.cgi?article=3433&context=mqp-all
-
 Cite as:
-Dogrucu, A., Perucic, A., Isaro, A., & Ball, D. C. (2018). Sensing Depression
+
+Dogrucu A., Perucic A., Isaro A., Ball D., Toto E., Rundensteiner E.A., Agu
+E., Davis-Martin R. & Boudreaux E., Moodable: On feasibility of instantaneous depression assessment
+using machine learning on voice samples with retrospectively harvested smartphone and social media
+data, Smart Health (2020), doi: https://doi.org/10.1016/j.smhl.2020.100118.
+
 
 
 ## THE NITTY GRITTY
